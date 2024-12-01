@@ -6,7 +6,7 @@ export const config = {
     logInAuthUrl: "",
   },
   head: {
-    title: "Urodele",
+    title: "章北海的根据地",
   },
   footer: {
     copyright: "© Alucard·D·Zhang",
