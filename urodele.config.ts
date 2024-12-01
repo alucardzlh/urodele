@@ -1,7 +1,7 @@
 export const config = {
   github: {
-    login: "glink25", // github login name, not user name
-    repo: "test-for-anything", //"urodele",
+    login: "alucardzlh", // github login name, not user name
+    repo: "urodele", //"urodele",
     logInUrl: "",
     logInAuthUrl: "",
   },
@@ -9,8 +9,8 @@ export const config = {
     title: "Urodele",
   },
   footer: {
-    copyright: "© Glink",
-    copyrightUrl: "https://github.com/glink25",
+    copyright: "© Alucard·D·Zhang",
+    copyrightUrl: "https://github.com/alucardzlh",
   },
   giscus: false as object | false,
 } as const;
