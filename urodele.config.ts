@@ -12,7 +12,22 @@ export const config = {
     copyright: "© Glink",
     copyrightUrl: "https://github.com/glink24/urodele",
   },
-  giscus: false as object | false,
+  giscus: {
+    src: "https://giscus.app/client.js",
+    "data-repo": "alucardzlh/alucardzlh.github.io",
+    "data-repo-id": "R_kgDONWtphA",
+    "data-category": "Announcements",
+    "data-category-id": "DIC_kwDONWtphM4CkxzD",
+    "data-mapping": "pathname",
+    "data-strict": "0",
+    "data-reactions-enabled": "1",
+    "data-emit-metadata": "0",
+    "data-input-position": "bottom",
+    "data-theme": "preferred_color_scheme",
+    "data-lang": "zh-CN",
+    crossorigin: "anonymous",
+    async: true,
+  }as object | false,
 } as const;
 
 export default config;
