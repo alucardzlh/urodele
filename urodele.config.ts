@@ -1,9 +1,9 @@
 export const config = {
   github: {
     login: "alucardzlh", // github login name, not user name
-    repo: "urodele", //"urodele",
-    logInUrl: "",
-    logInAuthUrl: "",
+    repo: "alucardzlh.github.io", //"urodele",
+    logInUrl: "https://github-login.link-ai.workers.dev/",
+    logInAuthUrl: "https://github-login.link-ai.workers.dev/",
   },
   head: {
     title: "Urodele",
