@@ -2,7 +2,7 @@ export const config = {
   github: {
     login: "alucardzlh", // github login name, not user name
     repo: "alucardzlh.github.io", //"urodele",
-    logInUrl: "https://github.com/login/oauth/authorize?client_id=Ov23litwlAHIYV70Ifwx&redirect_uri=https://alulcardzlh.github.io",
+    logInUrl: "https://github.com/login/oauth/authorize?client_id=Ov23litwlAHIYV70Ifwx&redirect_uri=https://alucardzlh.github.io",
     logInAuthUrl: "",
   },
   head: {
