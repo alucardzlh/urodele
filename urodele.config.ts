@@ -2,8 +2,9 @@ export const config = {
   github: {
     login: "alucardzlh", // github login name, not user name
     repo: "alucardzlh.github.io", //"urodele",
-    logInUrl: "https://github.com/login/oauth/authorize?client_id=Ov23litwlAHIYV70Ifwx&redirect_uri=https://alucardzlh.github.io&scope=repo,user",
-    logInAuthUrl: "https://github.com/login/oauth/authorize?client_id=Ov23litwlAHIYV70Ifwx&redirect_uri=https://alucardzlh.github.io&scope=repo,use",
+    logInUrl: "https://github-login.link-ai.workers.dev/api/oauth/authorize?redirect_uri=https://alucardzlh.github.io/login",
+    // logInAuthUrl: "https://github.com/login/oauth/authorize?client_id=Ov23litwlAHIYV70Ifwx&redirect_uri=https://alucardzlh.github.io&scope=repo,use",
+    logInAuthUrl: "https://github-login.link-ai.workers.dev/api/oauth/token"
   },
   head: {
     title: "章北海的根据地",
