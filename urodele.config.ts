@@ -7,11 +7,11 @@ export const config = {
     logInAuthUrl: "https://github-login.alucardzlh.workers.dev/api/oauth/token"
   },
   head: {
-    title: "章北海的根据地",
+    title: "Welcome",
   },
   footer: {
-    copyright: "© Glink",
-    copyrightUrl: "https://github.com/glink24/urodele",
+    copyright: "© Alucardzlh",
+    copyrightUrl: "https://github.com/alucardzlh",
   },
   giscus: {
     src: "https://giscus.app/client.js",
